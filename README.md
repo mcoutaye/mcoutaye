@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bonjour, Je suis Mathis Coutaye
 
-<!--
-**mcoutaye/mcoutaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖**À propos de moi :**
+- 🇷🇪 Je suis actuellement à l'ïle de la Réunion
+- 📘 Je suis actuellement en première année à Epitech Réunion
+- 🖳 Mes passions sont bien sûr l'informatique, les jeux vidéos 🎮 et la photographie 📷.
 
-Here are some ideas to get you started:
+## 🚀 **Mes projets préférés :**
+  - MY_RPG : Vidéo de Démo : [Démo my_rpg](https://youtu.be/MBely5rjlpw)
+  - Chocolatine : Projet ou on a apprit à utiliser les GitHub Actions
+  - My_hunter : Le tout premier projet graphique de l'année.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 **Contactez moi :**
+- ✉️  Email (personal)   : coutayemathis@gmail.com
+- ✉️  Email (school/pro) : mathis.coutaye@epitech.eu
+- 💼 Linkedin           : [MathisCoutaye](https:/www.linkedin.com/in/mathis-coutaye-a8b6432bb)
