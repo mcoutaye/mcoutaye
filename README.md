@@ -1,6 +1,5 @@
 # Bonjour, Je suis Mathis Coutaye
-
-# Voici mes compétences :
+Voici mes compétences :
 
 ###
 
