@@ -1,5 +1,7 @@
 # Bonjour, Je suis Mathis Coutaye
 
+# Voici mes compétences :
+
 ###
 
 <div align="center">
