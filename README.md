@@ -31,7 +31,7 @@ Voici mes compétences :
 
 ## 🚀 **Mes projets préférés :**
   - MY_RPG : Vidéo de Démo : [Démo my_rpg](https://youtu.be/MBely5rjlpw)
-  - Chocolatine : Projet ou on a apprit à utiliser les GitHub Actions
+  - Chocolatine : Projet ou on a apprit à utiliser les GitHub Actions [Démo Chocolatine](https://youtu.be/dPgw7hdIu24)
   - My_hunter : Le tout premier projet graphique de l'année.
 
 ## 📱 **Contactez moi :**
